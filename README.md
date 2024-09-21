@@ -1,5 +1,5 @@
 <h1 align="center">Hola mi nombre es Cristian Alejandro Nasso</h1>
-<h3 align="center">Desarrollador Full Stack Java y Python</h3>
+<h2 align="center">Desarrollador Full Stack Java, Python y PHP</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
